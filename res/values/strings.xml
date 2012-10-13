@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">SpheroWaker</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="set_time_instructions">Select a date and time above, and a color, click to activate the Alarm</string>
+    <string name="button_label_1">Activate Alarm!</string>
+
+</resources>
